@@ -6,3 +6,4 @@ Go to Setting -> Business settings -> Team -> - click + New member - add email a
 
 ## - [ ] Create Landing page
 ### -- [ ] Create Hero Section
+### ---[ ]Logo
