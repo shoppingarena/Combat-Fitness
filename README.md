@@ -1,0 +1,1 @@
+# PROJECT: [COMBATFITNESS.FI](https://combatfitness.fi)
