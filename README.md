@@ -1,1 +1,2 @@
-# PROJECT: [COMBATFITNESS.FI](https://combatfitness.fi)
+# Combat Fitness Finland
+## [combatfitness.fi](https://combatfitness.fi)
